@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--我是注释-->
+<root>
+<qiandao_qiandao_28s>
+<qiandao_28 id="1" reward="diamond-30" double="0" />
+<qiandao_28 id="2" reward="aixin-5" double="0" />
+<qiandao_28 id="3" reward="gold-6888" double="1" />
+<qiandao_28 id="4" reward="daojuanquancitie-3" double="0" />
+<qiandao_28 id="5" reward="ma006-2" double="0" />
+<qiandao_28 id="6" reward="saodangjuan-2" double="3" />
+<qiandao_28 id="7" reward="diamond-50" double="0" />
+<qiandao_28 id="8" reward="aixin-10" double="0" />
+<qiandao_28 id="9" reward="gold-8888" double="2" />
+<qiandao_28 id="10" reward="daojuewaitili-2" double="0" />
+<qiandao_28 id="11" reward="ma006-2" double="0" />
+<qiandao_28 id="12" reward="exp-5000" double="4" />
+<qiandao_28 id="13" reward="diamond-80" double="0" />
+<qiandao_28 id="14" reward="aixin-15" double="0" />
+<qiandao_28 id="15" reward="gold-10000" double="3" />
+<qiandao_28 id="16" reward="daojufeixing-3" double="0" />
+<qiandao_28 id="17" reward="ma006-2" double="0" />
+<qiandao_28 id="18" reward="ma005-5" double="5" />
+<qiandao_28 id="19" reward="diamond-100" double="0" />
+<qiandao_28 id="20" reward="aixin-20" double="0" />
+<qiandao_28 id="21" reward="gold-15000" double="3" />
+<qiandao_28 id="22" reward="daojuzhongjifeixing-3" double="0" />
+<qiandao_28 id="23" reward="" double="0" />
+<qiandao_28 id="24" reward="ma005-2" double="6" />
+<qiandao_28 id="25" reward="diamond-150" double="0" />
+<qiandao_28 id="26" reward="aixin-25" double="0" />
+<qiandao_28 id="27" reward="gold-20000" double="3" />
+<qiandao_28 id="28" reward="diamond-200" double="6" />
+</qiandao_qiandao_28s>
+<qiandao_qiandao_29s>
+<qiandao_29 id="1" reward="diamond-30" double="0" />
+<qiandao_29 id="2" reward="aixin-5" double="0" />
+<qiandao_29 id="3" reward="gold-6888" double="1" />
+<qiandao_29 id="4" reward="daojuanquancitie-3" double="0" />
+<qiandao_29 id="5" reward="ma006-2" double="0" />
+<qiandao_29 id="6" reward="saodangjuan-2" double="3" />
+<qiandao_29 id="7" reward="diamond-50" double="0" />
+<qiandao_29 id="8" reward="aixin-10" double="0" />
+<qiandao_29 id="9" reward="gold-8888" double="2" />
+<qiandao_29 id="10" reward="daojuewaitili-2" double="0" />
+<qiandao_29 id="11" reward="ma006-2" double="0" />
+<qiandao_29 id="12" reward="exp-5000" double="4" />
+<qiandao_29 id="13" reward="diamond-80" double="0" />
+<qiandao_29 id="14" reward="aixin-15" double="0" />
+<qiandao_29 id="15" reward="gold-10000" double="3" />
+<qiandao_29 id="16" reward="daojufeixing-3" double="0" />
+<qiandao_29 id="17" reward="ma006-2" double="0" />
+<qiandao_29 id="18" reward="ma005-5" double="5" />
+<qiandao_29 id="19" reward="diamond-100" double="0" />
+<qiandao_29 id="20" reward="aixin-20" double="0" />
+<qiandao_29 id="21" reward="gold-15000" double="3" />
+<qiandao_29 id="22" reward="daojuzhongjifeixing-3" double="0" />
+<qiandao_29 id="23" reward="daojuzhongjifeixing-3" double="0" />
+<qiandao_29 id="24" reward="ma005-2" double="6" />
+<qiandao_29 id="25" reward="diamond-150" double="0" />
+<qiandao_29 id="26" reward="aixin-25" double="0" />
+<qiandao_29 id="27" reward="gold-20000" double="3" />
+<qiandao_29 id="28" reward="ac001-1" double="6" />
+<qiandao_29 id="29" reward="diamond-200" double="6" />
+</qiandao_qiandao_29s>
+<qiandao_qiandao_30s>
+<qiandao_30 id="1" reward="diamond-30" double="0" />
+<qiandao_30 id="2" reward="aixin-5" double="0" />
+<qiandao_30 id="3" reward="gold-6888" double="1" />
+<qiandao_30 id="4" reward="daojuanquancitie-3" double="0" />
+<qiandao_30 id="5" reward="ma006-2" double="0" />
+<qiandao_30 id="6" reward="saodangjuan-2" double="3" />
+<qiandao_30 id="7" reward="diamond-50" double="0" />
+<qiandao_30 id="8" reward="aixin-10" double="0" />
+<qiandao_30 id="9" reward="gold-8888" double="2" />
+<qiandao_30 id="10" reward="daojuewaitili-2" double="0" />
+<qiandao_30 id="11" reward="ma006-2" double="0" />
+<qiandao_30 id="12" reward="exp-5000" double="4" />
+<qiandao_30 id="13" reward="diamond-80" double="0" />
+<qiandao_30 id="14" reward="aixin-15" double="0" />
+<qiandao_30 id="15" reward="gold-10000" double="3" />
+<qiandao_30 id="16" reward="daojufeixing-3" double="0" />
+<qiandao_30 id="17" reward="ma006-2" double="0" />
+<qiandao_30 id="18" reward="ma005-5" double="5" />
+<qiandao_30 id="19" reward="diamond-100" double="0" />
+<qiandao_30 id="20" reward="aixin-20" double="0" />
+<qiandao_30 id="21" reward="gold-15000" double="3" />
+<qiandao_30 id="22" reward="daojuzhongjifeixing-3" double="0" />
+<qiandao_30 id="23" reward="daojuzhongjifeixing-3" double="0" />
+<qiandao_30 id="24" reward="ma005-2" double="6" />
+<qiandao_30 id="25" reward="diamond-150" double="0" />
+<qiandao_30 id="26" reward="aixin-25" double="0" />
+<qiandao_30 id="27" reward="gold-20000" double="3" />
+<qiandao_30 id="28" reward="ma006-2" double="5" />
+<qiandao_30 id="29" reward="ac001-1" double="6" />
+<qiandao_30 id="30" reward="diamond-200" double="6" />
+</qiandao_qiandao_30s>
+<qiandao_qiandao_31s>
+<qiandao_31 id="1" reward="diamond-30" double="0" />
+<qiandao_31 id="2" reward="aixin-5" double="0" />
+<qiandao_31 id="3" reward="gold-6888" double="1" />
+<qiandao_31 id="4" reward="daojuanquancitie-3" double="0" />
+<qiandao_31 id="5" reward="ma006-2" double="0" />
+<qiandao_31 id="6" reward="saodangjuan-2" double="3" />
+<qiandao_31 id="7" reward="diamond-50" double="0" />
+<qiandao_31 id="8" reward="aixin-10" double="0" />
+<qiandao_31 id="9" reward="gold-8888" double="2" />
+<qiandao_31 id="10" reward="daojuewaitili-2" double="0" />
+<qiandao_31 id="11" reward="ma006-2" double="0" />
+<qiandao_31 id="12" reward="exp-5000" double="4" />
+<qiandao_31 id="13" reward="diamond-80" double="0" />
+<qiandao_31 id="14" reward="aixin-15" double="0" />
+<qiandao_31 id="15" reward="gold-10000" double="3" />
+<qiandao_31 id="16" reward="daojufeixing-3" double="0" />
+<qiandao_31 id="17" reward="ma006-2" double="0" />
+<qiandao_31 id="18" reward="ma005-5" double="5" />
+<qiandao_31 id="19" reward="diamond-100" double="0" />
+<qiandao_31 id="20" reward="aixin-20" double="0" />
+<qiandao_31 id="21" reward="gold-15000" double="3" />
+<qiandao_31 id="22" reward="daojuzhongjifeixing-3" double="0" />
+<qiandao_31 id="23" reward="ma006-2" double="0" />
+<qiandao_31 id="24" reward="ma005-2" double="6" />
+<qiandao_31 id="25" reward="diamond-150" double="0" />
+<qiandao_31 id="26" reward="aixin-25" double="0" />
+<qiandao_31 id="27" reward="gold-20000" double="3" />
+<qiandao_31 id="28" reward="daojujieli-3" double="0" />
+<qiandao_31 id="29" reward="ma006-2" double="5" />
+<qiandao_31 id="30" reward="ac001-1" double="6" />
+<qiandao_31 id="31" reward="diamond-200" double="6" />
+</qiandao_qiandao_31s>
+</root>
+

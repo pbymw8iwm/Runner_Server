@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--我是注释-->
+<root>
+<vip_vips>
+<vip vipid="1" cost="10" saodangjuan_present="3" liveness_reward="1" aixin_limit="5" suipian_limit="0" guanka_reset="1" saodanggongneng="False" rank_reward_double="False" resurgence="0" />
+<vip vipid="2" cost="100" saodangjuan_present="5" liveness_reward="1" aixin_limit="5" suipian_limit="6" guanka_reset="1" saodanggongneng="True" rank_reward_double="False" resurgence="0" />
+<vip vipid="3" cost="300" saodangjuan_present="7" liveness_reward="1" aixin_limit="10" suipian_limit="9" guanka_reset="2" saodanggongneng="True" rank_reward_double="False" resurgence="0" />
+<vip vipid="4" cost="500" saodangjuan_present="10" liveness_reward="2" aixin_limit="10" suipian_limit="12" guanka_reset="2" saodanggongneng="True" rank_reward_double="False" resurgence="0" />
+<vip vipid="5" cost="1000" saodangjuan_present="15" liveness_reward="2" aixin_limit="15" suipian_limit="15" guanka_reset="3" saodanggongneng="True" rank_reward_double="False" resurgence="0" />
+<vip vipid="6" cost="2000" saodangjuan_present="15" liveness_reward="2" aixin_limit="15" suipian_limit="18" guanka_reset="3" saodanggongneng="True" rank_reward_double="False" resurgence="0" />
+<vip vipid="7" cost="5000" saodangjuan_present="25" liveness_reward="3" aixin_limit="15" suipian_limit="21" guanka_reset="4" saodanggongneng="True" rank_reward_double="True" resurgence="0" />
+<vip vipid="8" cost="10000" saodangjuan_present="30" liveness_reward="3" aixin_limit="20" suipian_limit="23" guanka_reset="4" saodanggongneng="True" rank_reward_double="True" resurgence="0" />
+<vip vipid="9" cost="20000" saodangjuan_present="35" liveness_reward="4" aixin_limit="25" suipian_limit="25" guanka_reset="5" saodanggongneng="True" rank_reward_double="True" resurgence="1" />
+<vip vipid="10" cost="50000" saodangjuan_present="40" liveness_reward="4" aixin_limit="27" suipian_limit="25" guanka_reset="5" saodanggongneng="True" rank_reward_double="True" resurgence="1" />
+</vip_vips>
+</root>
+

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--我是注释-->
+<root>
+<activity_wordranks>
+<wordrank wordrank_id="1" wordrank_reward="diamond-1000" wordrank_mailtitle="世界排行榜" wordrank_mailcontent="恭喜您上周在世界排行榜中获得%d名，特此奖励" />
+<wordrank wordrank_id="2-10" wordrank_reward="diamond-500" wordrank_mailtitle="世界排行榜" wordrank_mailcontent="恭喜您上周在世界排行榜中获得%d名，特此奖励" />
+<wordrank wordrank_id="11-50" wordrank_reward="diamond-200" wordrank_mailtitle="世界排行榜" wordrank_mailcontent="恭喜您上周在世界排行榜中获得%d名，特此奖励" />
+<wordrank wordrank_id="50-500" wordrank_reward="diamond-100" wordrank_mailtitle="世界排行榜" wordrank_mailcontent="恭喜您上周在世界排行榜中获得%d名，特此奖励" />
+<wordrank wordrank_id="500-2000" wordrank_reward="diamond-50" wordrank_mailtitle="世界排行榜" wordrank_mailcontent="恭喜您上周在世界排行榜中获得%d名，特此奖励" />
+<wordrank wordrank_id="2000-5000" wordrank_reward="gold-5000" wordrank_mailtitle="世界排行榜" wordrank_mailcontent="恭喜您上周在世界排行榜中获得%d名，特此奖励" />
+</activity_wordranks>
+<activity_friendranks>
+<friendrank friendrank_id="1" friendrank_reward="diamond-20_gold" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="2" friendrank_reward="diamond-10" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="3" friendrank_reward="gold-5000" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="4" friendrank_reward="gold-4000" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="5" friendrank_reward="gold-3000" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="6" friendrank_reward="gold-2000" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="7" friendrank_reward="gold-1000" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="8" friendrank_reward="gold-800" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="9" friendrank_reward="gold-500" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+<friendrank friendrank_id="10" friendrank_reward="gold-200" friendrank_mailtitle="好友排行榜" friendrank_mailcontent="恭喜您上周在好友排行榜中获得%d名，特此奖励" />
+</activity_friendranks>
+</root>
+

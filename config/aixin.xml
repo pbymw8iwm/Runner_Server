@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--我是注释-->
+<root>
+<aixin_aixins>
+<aixin id="aixin" desc="进行游戏的消耗品" time="10" limit="10" />
+</aixin_aixins>
+</root>
+

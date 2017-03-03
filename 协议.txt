@@ -1,0 +1,106 @@
+所有协议都是POST方式发送(后期建议使用base64加密协议)
+
+1 查询版本号信息
+'http://120.77.86.253/UserInfo/queryVersion'
+
+C->S
+{
+	"deviceType":"IOS",
+	"version":"1.1.1"
+}
+S->C:
+{
+	按照返回来解析吧
+}
+
+2 游戏逻辑协议
+首先先选择登陆方式，默认是游客账号，
+如果选择的登录方式是第三方平台，首先SDK获得授权，那么客户端拿到授权信息查询当前账号有没有角色发送"module":queryuser的协议
+如果当前授权账号里有角色，那么发送"module":loginuser协议直接登录游戏，如果没有角色那么发送"module":createuser协议，携带第三方登录平台的信息发送给服务器创建角色。
+如果是游客账号登录，也是先发送"module":queryuser的协议，查看有没有角色信息，如果没有就发送"module":createuser协议，创建角色。有则发送"module":loginuser协议直接登录游戏
+账号绑定暂时不定方案。
+#############################################################################################################
+1 查询玩家
+C->S	
+{ 
+	"module":"queryuser", 			//请求更新锦标塞信息
+	"deviceUUID":"deviceToken",//设备号
+	"channel":"deviceLogin",//登录方式 qqLogin smsLogin weiboLogin  
+	"openID":"123123" //第三方登录平台返回的id，如果是设备登录不需要这个参数了或者为空 
+}	
+S->C
+{ 
+	"ts":"132323232323"//服务器时间戳
+	"errcode":"0"
+	"errmsg":""
+	"role" :"true"//有没有角色 true false
+}	
+#############################################################################################################
+创建玩家
+C->S	
+{ 
+	"module":"createuser", 			//请求更新锦标塞信息
+	"deviceUUID":"deviceToken",//设备号
+	"channel":"deviceLogin",//登录方式 qqLogin smsLogin weiboLogin
+	"deviceType":"IOS",//设备类型信息 android
+	"idfa":"xxxxxxxxxxx"
+	"openID":"123123"//第三方登录平台返回的id，如果是设备登录不需要这个参数了或者为空
+	"version":"1.1.1" //客户端版本
+}	
+S->C
+{ 
+	"ts":"132323232323"//服务器时间戳
+	"errcode":"0"
+	"errmsg":""
+	"session":"1111111111"//玩家回话id，到时候和服务器进行校验的,以后的协议发送都要携带这个信息 
+	"playerinfo"：baseinfo.json//读取baseInfo.json文件 
+}	
+#############################################################################################################
+登录玩家
+C->S	
+{ 
+	"module":"loginuser", 			//请求更新锦标塞信息
+	"deviceUUID":"deviceToken",//设备号
+	"channel":"deviceLogin",//登录方式 qqLogin smsLogin weiboLogin
+	"deviceType":"IOS",//设备类型信息 android 
+	"openID":"123123"//第三方登录平台返回的id，如果是设备登录不需要这个参数了或者为空
+	"version":"1.1.1" //客户端版本
+}	
+S->C
+{ 
+	"ts":"132323232323"//服务器时间戳
+	"errcode":"0"
+	"errmsg":""
+	"session":"1111111111"//玩家回话id，到时候和服务器进行校验的,以后的协议发送都要携带这个信息 
+	"playerinfo"：baseinfo.json//读取baseInfo.json文件 
+}	
+#############################################################################################################
+绑定玩家  
+		C->S	
+{ 
+	"module":"binduser", 			//请求更新锦标塞信息
+	"deviceUUID":"deviceToken",//设备号
+	"channel":"qqLogin",//绑定账号的方式 qqLogin smsLogin weiboLogin  
+	"openID":"123123"   //第三方登录平台返回的id 
+	"visitor":"12" //游客账号也就是对应的userinfo里的玩家id
+}	
+S->C
+{ 
+	"ts":"132323232323"//服务器时间戳
+	"errcode":"0"
+	"errmsg":"" 
+}	
+#############################################################################################################
+玩家下线  
+		C->S	
+{ 
+	"module":"logoutuser", 			//请求更新锦标塞信息
+	"session":"1111111111111",//sessionid用来校验的
+	"userid":"1",//玩家id
+}	
+S->C
+{ 
+	"ts":"132323232323"//服务器时间戳
+	"errcode":"0"
+	"errmsg":"" 
+}

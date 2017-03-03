@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--我是注释-->
+<root>
+<publicskills_points>
+<point id="1" cost="0" effect="0" />
+<point id="2" cost="gold-500" effect="1" />
+<point id="3" cost="gold-1300" effect="2" />
+<point id="4" cost="gold-2100" effect="3" />
+<point id="5" cost="gold-2900" effect="4" />
+<point id="6" cost="gold-3700" effect="5" />
+<point id="7" cost="gold-4500" effect="6" />
+<point id="8" cost="gold-5300" effect="7" />
+<point id="9" cost="gold-6100" effect="8" />
+<point id="10" cost="gold-6900" effect="9" />
+<point id="11" cost="gold-7700" effect="11" />
+<point id="12" cost="gold-8500" effect="13" />
+<point id="13" cost="gold-9300" effect="15" />
+<point id="14" cost="gold-10100" effect="17" />
+<point id="15" cost="gold-10900" effect="19" />
+<point id="16" cost="gold-11700" effect="21" />
+<point id="17" cost="gold-12500" effect="23" />
+<point id="18" cost="gold-13300" effect="25" />
+<point id="19" cost="gold-14100" effect="27" />
+<point id="20" cost="gold-14900" effect="29" />
+<point id="21" cost="diamond-25" effect="32" />
+<point id="22" cost="diamond-25" effect="35" />
+<point id="23" cost="diamond-25" effect="38" />
+<point id="24" cost="diamond-25" effect="41" />
+<point id="25" cost="diamond-50" effect="44" />
+<point id="26" cost="diamond-50" effect="47" />
+<point id="27" cost="diamond-50" effect="50" />
+<point id="28" cost="diamond-50" effect="53" />
+<point id="29" cost="diamond-50" effect="56" />
+<point id="30" cost="diamond-60" effect="59" />
+</publicskills_points>
+<publicskills_attacks>
+<attack id="1" cost="0" effect="0" />
+<attack id="2" cost="gold-500" effect="10" />
+<attack id="3" cost="gold-1300" effect="20" />
+<attack id="4" cost="gold-2100" effect="30" />
+<attack id="5" cost="gold-2900" effect="40" />
+<attack id="6" cost="gold-3700" effect="50" />
+<attack id="7" cost="gold-4500" effect="60" />
+<attack id="8" cost="gold-5300" effect="70" />
+<attack id="9" cost="gold-6100" effect="80" />
+<attack id="10" cost="gold-6900" effect="90" />
+<attack id="11" cost="gold-7700" effect="100" />
+<attack id="12" cost="gold-8500" effect="110" />
+<attack id="13" cost="gold-9300" effect="120" />
+<attack id="14" cost="gold-10100" effect="130" />
+<attack id="15" cost="gold-10900" effect="140" />
+<attack id="16" cost="gold-11700" effect="150" />
+<attack id="17" cost="gold-12500" effect="160" />
+<attack id="18" cost="gold-13300" effect="170" />
+<attack id="19" cost="gold-14100" effect="180" />
+<attack id="20" cost="gold-14900" effect="190" />
+<attack id="21" cost="diamond-20" effect="200" />
+<attack id="22" cost="diamond-20" effect="210" />
+<attack id="23" cost="diamond-20" effect="220" />
+<attack id="24" cost="diamond-20" effect="230" />
+<attack id="25" cost="diamond-40" effect="240" />
+<attack id="26" cost="diamond-40" effect="250" />
+<attack id="27" cost="diamond-40" effect="260" />
+<attack id="28" cost="diamond-40" effect="270" />
+<attack id="29" cost="diamond-60" effect="280" />
+<attack id="30" cost="diamond-60" effect="290" />
+</publicskills_attacks>
+<publicskills_tilis>
+<tili id="1" cost="0" effect="0" />
+<tili id="2" cost="gold-500" effect="2" />
+<tili id="3" cost="gold-1000" effect="4" />
+<tili id="4" cost="gold-2000" effect="6" />
+<tili id="5" cost="gold-3800" effect="8" />
+<tili id="6" cost="gold-5500" effect="11" />
+<tili id="7" cost="gold-6400" effect="14" />
+<tili id="8" cost="gold-7680" effect="17" />
+<tili id="9" cost="gold-8960" effect="20" />
+<tili id="10" cost="gold-10240" effect="23" />
+<tili id="11" cost="gold-11520" effect="27" />
+<tili id="12" cost="gold-12800" effect="31" />
+<tili id="13" cost="gold-14080" effect="35" />
+<tili id="14" cost="gold-15360" effect="39" />
+<tili id="15" cost="gold-16640" effect="43" />
+<tili id="16" cost="gold-17920" effect="48" />
+<tili id="17" cost="gold-19200" effect="53" />
+<tili id="18" cost="gold-20480" effect="58" />
+<tili id="19" cost="gold-21760" effect="63" />
+<tili id="20" cost="gold-23040" effect="68" />
+<tili id="21" cost="diamond-40" effect="74" />
+<tili id="22" cost="diamond-40" effect="80" />
+<tili id="23" cost="diamond-40" effect="86" />
+<tili id="24" cost="diamond-40" effect="92" />
+<tili id="25" cost="diamond-60" effect="98" />
+<tili id="26" cost="diamond-60" effect="105" />
+<tili id="27" cost="diamond-60" effect="112" />
+<tili id="28" cost="diamond-60" effect="119" />
+<tili id="29" cost="diamond-80" effect="126" />
+<tili id="30" cost="diamond-80" effect="133" />
+</publicskills_tilis>
+</root>
+
